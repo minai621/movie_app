@@ -1,1 +1,1 @@
-Movie_app Nomad coder를 참조하였습니다.
+class형 컴포넌트와 Router연습
